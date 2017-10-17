@@ -1,0 +1,54 @@
+.casa-caja{
+	width: 1000px;
+	height: 600px;
+	position: relative;
+	margin: 0 auto;
+}
+
+.pasto {
+	background-color: green;
+	width: 800px;
+	height: 2.5em;
+	margin: 2.5em;
+	position: absolute;
+	bottom:0;
+}
+.base {
+	background-color: pink;
+	width: 24.4em;
+	height:12em;
+	position: absolute;
+	bottom: 5em;
+	left:25em;
+
+}
+.techo {
+	width: 300px;
+    height: 0px;
+    border-right: 60px solid transparent;
+    border-left: 60px solid transparent;
+    border-bottom: 100px solid black;
+    position: absolute;
+    bottom: 17em;
+    left:24em;
+
+	
+}
+.ventana_1{
+	background-color: red;
+	width: 4em;
+	height: 4em;
+	position: absolute;
+	bottom: 9em;
+	left: 44em;
+
+}
+.ventana_2{
+	background-color: red;
+	width: 4em;
+	height: 4em;
+	position: absolute;
+	bottom: 9em;
+	left: 27em;
+
+}
