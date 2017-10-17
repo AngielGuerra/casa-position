@@ -14,7 +14,7 @@
 	bottom:0;
 }
 .base {
-	background-color: pink;
+	background-color: maroon;
 	width: 24.4em;
 	height:12em;
 	position: absolute;
@@ -35,7 +35,7 @@
 	
 }
 .ventana_1{
-	background-color: red;
+	background-color: pink;
 	width: 4em;
 	height: 4em;
 	position: absolute;
@@ -44,11 +44,63 @@
 
 }
 .ventana_2{
-	background-color: red;
+	background-color: pink;
 	width: 4em;
 	height: 4em;
 	position: absolute;
 	bottom: 9em;
 	left: 27em;
+
+}
+.puerta{
+	background-color: white;
+	width: 6em;
+	height: 9em;
+	position: absolute;
+	bottom: 5em;
+	left: 34em;
+}
+.chimenea{
+	background-color: yellow;
+	width: 3em;
+	height: 3.5em;
+	position: absolute;
+	bottom: 22em;
+	left: 43em;
+
+}
+.humo1{
+	width: 40px;
+     height: 40px;
+     -moz-border-radius: 50%;
+     -webkit-border-radius: 50%;
+     border-radius: 50%;
+     background: grey;
+     position: absolute;
+     bottom: 25.5em;
+     left: 43.5em;
+}
+.humo2{
+	width: 30px;
+     height: 30px;
+     -moz-border-radius: 50%;
+     -webkit-border-radius: 50%;
+     border-radius: 50%;
+     background: silver;
+     position: absolute;
+     bottom: 27.5em;
+     left: 45em;
+
+}
+.humo3{
+	width: 20px;
+     height: 20px;
+     -moz-border-radius: 50%;
+     -webkit-border-radius: 50%;
+     border-radius: 50%;
+     background: silver;
+     position: absolute;
+     bottom: 28.5em;
+     left: 46.5em;
 
 }
